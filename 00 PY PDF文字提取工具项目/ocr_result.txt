@@ -1,0 +1,30 @@
+--- 第 1 页 ---
+Systems Analysis & Design
+
+Tenth Edition
+
+SYSTEMS Chapter 1
+ANALYS IS Systems, Roles, and
+& DESIGN Development
+
+Methodologies
+
+Kendall & Kendall
+
+@ Pearson Copyright © 2019, 2014, 2011 Pearson Education, Inc. All Rights Reserved
+
+--- 第 2 页 ---
+Learning Objectives
+
+1.1 Understand the need for systems analysis and design
+in organizations
+
+1.2 Realize what the many roles of the systems analyst are
+
+1.3 Comprehend the fundamentals of three development
+methodologies:
+1.3.1 The systems development life cycle (SDLC)
+1.3.2 The agile approach including Scrum
+1.3.3 Object-oriented systems analysis and design
+
+@ Pearson Copyright © 2019, 2014, 2011 Pearson Education, Inc. All Rights Reserved
